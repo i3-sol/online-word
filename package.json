@@ -1,0 +1,32 @@
+{
+  "name": "h7qte4--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "22.2.5",
+    "@syncfusion/ej2-buttons": "22.2.8",
+    "@syncfusion/ej2-calendars": "22.2.8",
+    "@syncfusion/ej2-compression": "22.2.5",
+    "@syncfusion/ej2-dropdowns": "22.2.8",
+    "@syncfusion/ej2-file-utils": "22.2.5",
+    "@syncfusion/ej2-inputs": "22.2.7",
+    "@syncfusion/ej2-navigations": "22.2.8",
+    "@syncfusion/ej2-office-chart": "22.2.5",
+    "@syncfusion/ej2-popups": "22.2.8",
+    "@syncfusion/ej2-splitbuttons": "22.2.8",
+    "@syncfusion/ej2-documenteditor": "22.2.8",
+    "@types/crossroads": "0.0.28",
+    "@types/signals": "0.0.16",
+    "@types/moment-timezone": "0.5.30",
+    "@types/hasher": "0.0.27",
+    "fuse.js": "3.6.1",
+    "marked": "0.3.19",
+    "codemirror": "5.65.14",
+    "crossroads": "0.12.2",
+    "@types/marked": "0.3.0",
+    "@types/codemirror": "0.0.56",
+    "@types/es6-promise": "0.0.28",
+    "hasher": "1.2.0",
+    "moment-timezone": "0.5.43"
+  }
+}
